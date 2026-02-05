@@ -23,6 +23,7 @@ NLP Preprocessing/
 └─ README.md
 ```
 ---
+
 ## How to Run
 From the project root folder (NLP Preprocessing/), run:
 
