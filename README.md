@@ -22,7 +22,8 @@ NLP Preprocessing/
 │  └─ (generated files)
 └─ README.md
 ```
-How to Run
+---
+## How to Run
 From the project root folder (NLP Preprocessing/), run:
 
 python src/presidential_speeches_token_analysis.py
@@ -34,7 +35,7 @@ Token frequency outputs
 - wordlist_counts.csv      (full token frequency table: word + count)
 - top20_tokens.csv         (top 20 tokens by count)
 - key_token_counts.csv     (counts for specific tokens used for quick lookup)
-
+---
 Notes
 - Stopwords are removed using the default English stopword list.
 - Tokens shorter than 3 characters are excluded by the vectorizer token pattern.
