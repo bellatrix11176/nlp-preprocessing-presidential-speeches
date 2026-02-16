@@ -43,3 +43,5 @@ Token frequency outputs
 - Tokens shorter than 3 characters are excluded by the vectorizer token pattern.
 - The full word list is saved so results are transparent and easy to verify.
 - key_token_counts.csv is a convenience file: it does not “answer” questions by itself, but it makes it easy to reference exact counts in a write-up.
+
+🌐 **PixelKraze Analytics (Portfolio):** https://pixelkraze.com/?utm_source=github&utm_medium=readme&utm_campaign=portfolio&utm_content=homepage
